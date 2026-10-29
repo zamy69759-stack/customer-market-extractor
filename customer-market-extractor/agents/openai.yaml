@@ -1,0 +1,4 @@
+interface:
+  display_name: "客户与市场知识萃取"
+  short_description: "从多源沟通资料生成可追溯 MKT 知识卡"
+  default_prompt: "请使用 $customer-market-extractor 萃取指定资料，并生成待审核的客户与市场知识卡。"
